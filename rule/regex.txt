@@ -1,4 +1,4 @@
-# Update time: 2023-10-13 17:05:44
+# Update time: 2023-10-13 17:49:52
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -116,6 +116,7 @@
 ||158.247.208.
 ||util-*.simply-hentai.com^
 ||23.109.82.
+||get-me-wow.
 ||142.91.159.
 ||23.109.87.
 ||widgets.*.webengage.com^
@@ -207,7 +208,6 @@ analytics-*.aasaam.com
 ||device-metrics-*.amazon.com^
 ||rusrestbest.
 ||v.newsportal*.ru^
-||get-me-wow.
 ||cnt.tubeon.
 ||videoclik.
 ||poshalim.
