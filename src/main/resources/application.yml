@@ -30,6 +30,7 @@ application:
       - 'https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt' #name: 乘风 广告过滤规则
       - 'https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/mv.txt' #name: 乘风 视频过滤规则
       - 'https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts' #name: 大圣净化（针对国内视频）
+      - 'https://raw.githubusercontent.com/mrchi/adaway-hosts/main/anti-ad-adaway.txt'
     #本地规则
     local: #本地规则请将文件移动到项目路径rule目录中
       - 'mylist.txt'
