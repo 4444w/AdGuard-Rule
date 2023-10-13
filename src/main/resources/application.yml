@@ -12,13 +12,24 @@ application:
   rule:
     #远程规则
     remote:
-      - 'https://filters.adtidy.org/extension/edge/filters/19.txt'
-      - 'https://filters.adtidy.org/extension/edge/filters/14.txt'
-      - 'https://filters.adtidy.org/extension/edge/filters/4.txt'
-    #伪装跟踪器列表
-      #- 'https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt' #name: 乘风 广告过滤规则
-      #- 'https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/mv.txt' #name: 乘风 视频过滤规则
-      #- 'https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts' #name: 大圣净化（针对国内视频）
+      - 'https://filters.adtidy.org/android/filters/15_optimized.txt'
+      - 'https://filters.adtidy.org/android/filters/101_optimized.txt'
+      - 'https://filters.adtidy.org/android/filters/104_optimized.txt'
+      - 'https://filters.adtidy.org/android/filters/208_optimized.txt'
+      - 'https://filters.adtidy.org/android/filters/242_optimized.txt'
+      - 'https://filters.adtidy.org/android/filters/11_optimized.txt'
+      - 'https://filters.adtidy.org/android/filters/14_optimized.txt'
+      - 'https://filters.adtidy.org/android/filters/18_optimized.txt'
+      - 'https://filters.adtidy.org/android/filters/19_optimized.txt'
+      - 'https://filters.adtidy.org/android/filters/20_optimized.txt'
+      - 'https://filters.adtidy.org/android/filters/21_optimized.txt'
+      - 'https://filters.adtidy.org/android/filters/224_optimized.txt'
+      - 'https://filters.adtidy.org/android/filters/22_optimized.txt'
+      - 'https://filters.adtidy.org/android/filters/2_optimized.txt'
+      - 'https://filters.adtidy.org/android/filters/4_optimized.txt'
+      - 'https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt' #name: 乘风 广告过滤规则
+      - 'https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/mv.txt' #name: 乘风 视频过滤规则
+      - 'https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts' #name: 大圣净化（针对国内视频）
     #本地规则
     local: #本地规则请将文件移动到项目路径rule目录中
       - 'mylist.txt'
