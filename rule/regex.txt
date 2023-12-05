@@ -1,4 +1,4 @@
-# Update time: 2023-12-03 14:19:22
+# Update time: 2023-12-05 14:21:21
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -117,7 +117,6 @@
 ||vns86.oss-*.aliyuncs.com^
 ||asd8900.oss-*.aliyuncs.com^
 ||ky891.oss-*.aliyuncs.com^
-||onetrust.
 ||allyes.
 ||icast.
 ||gg.
@@ -140,6 +139,7 @@
 ||irs01.
 ||saxs.sina.
 ||adsame.
+||onetrust.
 ||8*.tianya.cn^
 ||113.17.188.*.js
 ||ad*.on.cc^
