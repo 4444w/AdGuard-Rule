@@ -1,4 +1,4 @@
-# Update time: 2023-12-09 14:19:28
+# Update time: 2023-12-11 14:21:39
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -152,6 +152,8 @@
 ||get-me-wow.
 ||allsportsflix.
 ||23.109.87.
+@@||adobeid-*.services.adobe.com^
+Banner468x60
 ||pixel*.production-public.tubi.io^
 ||host*.nti.nl^
 ||adserver*.euroweeklynews.com^
@@ -388,5 +390,3 @@ analytics-*.aasaam.com
 ||poptraf.
 ||4adtf.com.^
 ||v*.sitecounter.site^
-@@||adobeid-*.services.adobe.com^
-Banner468x60
