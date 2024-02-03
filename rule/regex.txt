@@ -1,4 +1,4 @@
-# Update time: 2024-02-01 14:20:38
+# Update time: 2024-02-03 14:18:06
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -80,7 +80,6 @@
 ||banner.*.tccapis.com^
 ||cdn-adn-*.rayjump.com^
 ||adcs-*.myappsget.com^
-||widgets.*.webengage.com^
 ||sax*.sina.
 ||bdcpro*.techweb.com.cn^
 ||dm*.ppzuowen.com^
@@ -140,15 +139,17 @@
 ||irs01.
 ||saxs.sina.
 ||adsame.
+||widgets.*.webengage.com^
 ||ad*.on.cc^
 ||fpb1.chinacar.
 ||158.247.208.
 ||util-*.simply-hentai.com^
 ||iqkufk^
 ||23.109.82.
-||get-me-wow.
 ||allsportsflix.
 ||23.109.87.
+@@||adobeid-*.services.adobe.com^
+Banner468x60
 ||pixel*.production-public.tubi.io^
 ||host*.nti.nl^
 ||adserver*.euroweeklynews.com^
@@ -168,6 +169,7 @@ analytics-*.aasaam.com
 ||sgtm.fashionunited.
 ||lt*.tritondigital.com^
 ||api-*.hismarttv.com^
+||partner.superbahisaffiliates*.com^
 ||datacollect*.abtasty.com^
 ||v.tzbox*.xyz^
 ||telemetry*.transcend.io^
@@ -237,6 +239,7 @@ analytics-*.aasaam.com
 ||device-metrics-*.amazon.com^
 ||rusrestbest.
 ||v.newsportal*.ru^
+||get-me-wow.
 ||cnt.tubeon.
 ||videoclik.
 ||poshalim.
@@ -380,7 +383,4 @@ analytics-*.aasaam.com
 ||10.10.34.^
 ||collector.xhamster*.
 ||poptraf.
-||4adtf.com.^
 ||v*.sitecounter.site^
-@@||adobeid-*.services.adobe.com^
-Banner468x60
