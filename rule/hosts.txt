@@ -1,4 +1,4 @@
-# Update time: 2024-02-05 14:19:47
+# Update time: 2024-02-07 14:19:10
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -35091,6 +35091,7 @@
 127.0.0.1 adaccount.csdn.net
 127.0.0.1 eheuye.xyz
 127.0.0.1 smetrics.the-farmer.com
+127.0.0.1 data.customermail.syst.colruytgroup.com
 127.0.0.1 yac5t.cn
 127.0.0.1 adobe.sukoonglobalhealth.com
 127.0.0.1 nwxzs.com
