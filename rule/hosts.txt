@@ -1,4 +1,4 @@
-# Update time: 2024-02-17 14:19:03
+# Update time: 2024-02-19 14:20:50
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -8049,6 +8049,7 @@
 127.0.0.1 down.xiazaidc.com
 127.0.0.1 umc.danuoyi.alicdn.com
 127.0.0.1 yantrasvamosed.life
+127.0.0.1 tz.sec.xiaomi.com
 127.0.0.1 share.glorify-app.com
 127.0.0.1 etl.springbot.com
 127.0.0.1 wsfc.topya.com
@@ -75323,6 +75324,7 @@
 127.0.0.1 top.lv
 127.0.0.1 emsecure.net
 127.0.0.1 gentent.streampiay.fun
+127.0.0.1 zmhwaiapbtfq.com
 127.0.0.1 swa.anydma.com
 127.0.0.1 m.giftry.com
 127.0.0.1 dtxngr.com
