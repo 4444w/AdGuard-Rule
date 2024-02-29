@@ -1,4 +1,4 @@
-# Update time: 2024-02-27 14:19:17
+# Update time: 2024-02-29 14:20:14
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -82,7 +82,6 @@
 ||cdn-adn-*.rayjump.com^
 ||adcs-*.myappsget.com^
 ||widgets.*.webengage.com^
-||onetrust.
 ||sax*.sina.
 ||bdcpro*.techweb.com.cn^
 ||dm*.ppzuowen.com^
@@ -120,6 +119,7 @@
 ||vns86.oss-*.aliyuncs.com^
 ||asd8900.oss-*.aliyuncs.com^
 ||ky891.oss-*.aliyuncs.com^
+||onetrust.
 ||allyes.
 ||icast.
 ||gg.
@@ -145,13 +145,6 @@
 ||fpb1.chinacar.
 @@||adobeid-*.services.adobe.com^
 Banner468x60
-||158.247.208.
-||util-*.simply-hentai.com^
-||23.109.82.
-||get-me-wow.
-||allsportsflix.
-||23.109.87.
-||spryptvqguhpwt^
 ||pixel*.production-public.tubi.io^
 ||host*.nti.nl^
 ||adserver*.euroweeklynews.com^
@@ -386,3 +379,10 @@ analytics-*.aasaam.com
 ||collector.xhamster*.
 ||poptraf.
 ||v*.sitecounter.site^
+||158.247.208.
+||util-*.simply-hentai.com^
+||23.109.82.
+||get-me-wow.
+||allsportsflix.
+||23.109.87.
+||spryptvqguhpwt^
