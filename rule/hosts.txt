@@ -1,4 +1,4 @@
-# Update time: 2024-03-05 14:19:37
+# Update time: 2024-03-07 14:20:10
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -29405,7 +29405,6 @@
 127.0.0.1 salamantex.com
 127.0.0.1 cavy9soho.com
 127.0.0.1 info.sante-group.com
-127.0.0.1 star.fallback.c10r.facebook.com
 127.0.0.1 lp.demo1.demoamericas275.adobe.com
 127.0.0.1 92f83e092d.com
 127.0.0.1 d1wv5x2u0qrvjw.cloudfront.net
@@ -35485,7 +35484,6 @@
 127.0.0.1 skilfulrussian.com
 127.0.0.1 musicalbilateral.com
 127.0.0.1 tds.io
-127.0.0.1 star.c10r.facebook.com
 127.0.0.1 smetrics.grundfos.com
 127.0.0.1 a8.st.oddspark.com
 127.0.0.1 a32559.actonservice.com
@@ -48696,7 +48694,6 @@
 127.0.0.1 hmutggsidcnhj.com
 127.0.0.1 a43626.actonservice.com
 127.0.0.1 saishait.net
-127.0.0.1 gvt1-cn.com
 127.0.0.1 e.tingniubi.cn
 127.0.0.1 lipsate.com
 127.0.0.1 dqzirj.xyz
