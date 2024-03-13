@@ -1,4 +1,4 @@
-# Update time: 2024-03-11 14:20:30
+# Update time: 2024-03-13 14:20:06
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -961,6 +961,7 @@
 127.0.0.1 adx.timewit.cn
 127.0.0.1 adm.funshion.com
 127.0.0.1 api3.tuisong.baidu.com
+127.0.0.1 adgeo.163.com
 127.0.0.1 pb.hd.sohu.com.cn
 127.0.0.1 ykugc.cp31.ott.cibntv.net.302.myalicdn.com
 127.0.0.1 dev.umeng.com
@@ -4186,7 +4187,6 @@
 127.0.0.1 kcwtugkvnq.xyz
 127.0.0.1 nibyqlfurrafjx.com
 127.0.0.1 ak0gsh40.com
-127.0.0.1 adgeo.163.com
 127.0.0.1 tp.sieh-an.at
 127.0.0.1 a44205.actonservice.com
 127.0.0.1 mycelesterno.com
