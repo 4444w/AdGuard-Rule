@@ -1,4 +1,4 @@
-# Update time: 2024-03-31 14:18:50
+# Update time: 2024-04-01 14:20:41
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -143,8 +143,10 @@
 ||adsame.
 ||ad*.on.cc^
 ||fpb1.chinacar.
-@@||adobeid-*.services.adobe.com^
-Banner468x60
+||158.247.208.
+||util-*.simply-hentai.com^
+||23.109.82.
+||23.109.87.
 ||pixel*.production-public.tubi.io^
 ||host*.nti.nl^
 ||adserver*.euroweeklynews.com^
@@ -379,7 +381,5 @@ analytics-*.aasaam.com
 ||collector.xhamster*.
 ||poptraf.
 ||v*.sitecounter.site^
-||158.247.208.
-||util-*.simply-hentai.com^
-||23.109.82.
-||23.109.87.
+@@||adobeid-*.services.adobe.com^
+Banner468x60
