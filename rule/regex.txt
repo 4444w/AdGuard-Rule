@@ -1,4 +1,4 @@
-# Update time: 2024-04-11 14:20:49
+# Update time: 2024-04-13 14:16:05
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -83,6 +83,7 @@
 ||cdn-adn-*.rayjump.com^
 ||adcs-*.myappsget.com^
 ||widgets.*.webengage.com^
+||onetrust.
 ||sax*.sina.
 ||bdcpro*.techweb.com.cn^
 ||dm*.ppzuowen.com^
@@ -141,12 +142,10 @@
 ||irs01.
 ||saxs.sina.
 ||adsame.
-||onetrust.
 ||ad*.on.cc^
 ||fpb1.chinacar.
-||23.109.82.
-||get-me-wow.
-||allsportsflix.
+@@||adobeid-*.services.adobe.com^
+Banner468x60
 ||pixel*.production-public.tubi.io^
 ||host*.nti.nl^
 ||adserver*.euroweeklynews.com^
@@ -236,6 +235,7 @@ analytics-*.aasaam.com
 ||device-metrics-*.amazon.com^
 ||rusrestbest.
 ||v.newsportal*.ru^
+||get-me-wow.
 ||cnt.tubeon.
 ||videoclik.
 ||poshalim.
@@ -380,6 +380,6 @@ analytics-*.aasaam.com
 ||poptraf.
 ||v*.sitecounter.site^
 ||158.247.208.
-@@||adobeid-*.services.adobe.com^
+||23.109.82.
+||allsportsflix.
 ||23.109.87.
-Banner468x60
