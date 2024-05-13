@@ -1,4 +1,4 @@
-# Update time: 2024-05-11 14:20:06
+# Update time: 2024-05-13 14:23:10
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -22317,7 +22317,6 @@
 127.0.0.1 sstats.americafirst.com
 127.0.0.1 buxp.org
 127.0.0.1 wnform.www.trecenti.com
-127.0.0.1 mcdn.bilivideo.cn
 127.0.0.1 dxuuvxweynac.com
 127.0.0.1 lzp.plus
 127.0.0.1 sadbmetrics.autocasion.com
@@ -25023,7 +25022,6 @@
 127.0.0.1 a28416.actonservice.com
 127.0.0.1 smetrics.iwceexpo.com
 127.0.0.1 app.gfis.genworth.com
-127.0.0.1 httpdns.alicdn.com
 127.0.0.1 nyhed.danskespil.dk
 127.0.0.1 target.zinia.com
 127.0.0.1 wnjjhksaue.com
@@ -38490,7 +38488,6 @@
 127.0.0.1 sxjfhh.indystar.com
 127.0.0.1 neathygienesmash.com
 127.0.0.1 a64x.com
-127.0.0.1 deliver.kuwo.cn
 127.0.0.1 app.matchme.social
 127.0.0.1 hk2sch130021852.wns.windows.com
 127.0.0.1 clopembira.website
@@ -74077,6 +74074,7 @@
 127.0.0.1 brrhgrocarsharing.eccocar.com
 127.0.0.1 pci.aon.com
 127.0.0.1 smetrics.sony.de
+127.0.0.1 smetrics.utilityanalyticsweek.com
 127.0.0.1 lkkhedpqeduyukj.com
 127.0.0.1 nereu-gdr.com
 127.0.0.1 app.utlob.com
