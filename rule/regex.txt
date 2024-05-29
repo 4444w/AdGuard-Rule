@@ -1,4 +1,4 @@
-# Update time: 2024-05-27 14:24:36
+# Update time: 2024-05-29 14:23:08
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -47,6 +47,7 @@
 
 # 每12小时同步一次、如有误杀、请手动解除
 
+||widgets.*.webengage.com^
 ||reachableads-av.*.amazonaws.com^
 ||ads-*-nfl.yinzcam.com^
 ||ads*.production-public.tubi.io^
@@ -82,8 +83,6 @@
 ||banner.*.tccapis.com^
 ||cdn-adn-*.rayjump.com^
 ||adcs-*.myappsget.com^
-||widgets.*.webengage.com^
-||onetrust.
 ||sax*.sina.
 ||bdcpro*.techweb.com.cn^
 ||dm*.ppzuowen.com^
@@ -123,6 +122,7 @@
 ||vns86.oss-*.aliyuncs.com^
 ||asd8900.oss-*.aliyuncs.com^
 ||ky891.oss-*.aliyuncs.com^
+||onetrust.
 ||allyes.
 ||icast.
 ||gg.
@@ -146,10 +146,6 @@
 ||adsame.
 ||ad*.on.cc^
 ||fpb1.chinacar.
-||ads*.dfiles.eu^
-@@||adobeid-*.services.adobe.com^
-||ads*.depositfiles.org^
-Banner468x60
 ||158.247.208.
 ||util-*.simply-hentai.com^
 ||23.109.82.
@@ -398,3 +394,7 @@ analytics-*.aasaam.com
 ||collector*.ex.co^
 ||poptraf.
 ||v*.sitecounter.site^
+||ads*.dfiles.eu^
+@@||adobeid-*.services.adobe.com^
+||ads*.depositfiles.org^
+Banner468x60
