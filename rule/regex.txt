@@ -1,4 +1,4 @@
-# Update time: 2024-05-31 14:23:12
+# Update time: 2024-06-01 14:22:29
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -47,7 +47,6 @@
 
 # 每12小时同步一次、如有误杀、请手动解除
 
-||widgets.*.webengage.com^
 ||reachableads-av.*.amazonaws.com^
 ||ads-*-nfl.yinzcam.com^
 ||ads*.production-public.tubi.io^
@@ -122,6 +121,7 @@
 ||vns86.oss-*.aliyuncs.com^
 ||asd8900.oss-*.aliyuncs.com^
 ||ky891.oss-*.aliyuncs.com^
+||widgets.*.webengage.com^
 ||onetrust.
 ||allyes.
 ||icast.
@@ -147,14 +147,13 @@
 ||ad*.on.cc^
 ||fpb1.chinacar.
 ||158.247.208.
-||util-*.simply-hentai.com^
 ||23.109.82.
-||get-me-wow.
+||allsportsflix.
 ||23.109.87.
+||util-*.simply-hentai.com^
 ||ads*.dfiles.eu^
 @@||adobeid-*.services.adobe.com^
 ||ads*.depositfiles.org^
-||allsportsflix.
 Banner468x60
 ||pixel*.production-public.tubi.io^
 ||host*.nti.nl^
@@ -247,6 +246,7 @@ analytics-*.aasaam.com
 ||device-metrics-*.amazon.com^
 ||rusrestbest.
 ||v.newsportal*.ru^
+||get-me-wow.
 ||ubt.tracking.shopee.
 ||cnt.tubeon.
 ||videoclik.
