@@ -1,4 +1,4 @@
-# Update time: 2024-06-03 14:23:52
+# Update time: 2024-06-05 14:23:42
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -83,6 +83,7 @@
 ||cdn-adn-*.rayjump.com^
 ||adcs-*.myappsget.com^
 ||widgets.*.webengage.com^
+||onetrust.
 ||sax*.sina.
 ||bdcpro*.techweb.com.cn^
 ||dm*.ppzuowen.com^
@@ -122,7 +123,6 @@
 ||vns86.oss-*.aliyuncs.com^
 ||asd8900.oss-*.aliyuncs.com^
 ||ky891.oss-*.aliyuncs.com^
-||onetrust.
 ||allyes.
 ||icast.
 ||gg.
@@ -150,11 +150,6 @@
 @@||adobeid-*.services.adobe.com^
 ||ads*.depositfiles.org^
 Banner468x60
-||158.247.208.
-||util-*.simply-hentai.com^
-||23.109.82.
-||allsportsflix.
-||23.109.87.
 ||pixel*.production-public.tubi.io^
 ||host*.nti.nl^
 ||adserver*.euroweeklynews.com^
@@ -166,6 +161,7 @@ analytics-*.aasaam.com
 ||rgfftupf.
 ||adservice.google.
 ||counter*.stat.ovh^
+||collector-*.pxchk.net^
 ||host*.carl-ras.dk^
 ||ads.livetv*.me^
 ||iphone-caviar.ru*entranceId
@@ -246,7 +242,6 @@ analytics-*.aasaam.com
 ||device-metrics-*.amazon.com^
 ||rusrestbest.
 ||v.newsportal*.ru^
-||get-me-wow.
 ||ubt.tracking.shopee.
 ||cnt.tubeon.
 ||videoclik.
@@ -267,6 +262,7 @@ analytics-*.aasaam.com
 ||s*.adduplex.com^
 ||mon*-platform-*.tiktokv.com^
 ||collect-elb-*.amazonaws.com^
+||collector-*.px-cloud.net^
 ||collector-*.tvsquared.com^
 ||adserver1.
 ||log-*.previewnetworks.com^
@@ -309,6 +305,7 @@ analytics-*.aasaam.com
 ||browser-intake-*-datadoghq.com^
 ||metrics*.fitanalytics.com^
 ||edgetrksvc.ebay.
+||collector-*.px-cdn.net^
 ||eclog*-*.cafe24.com^
 ||host*.polaroid.com^
 ||datacollector-*.dt.dbankcloud.cn^
@@ -398,3 +395,9 @@ analytics-*.aasaam.com
 ||collector*.ex.co^
 ||poptraf.
 ||v*.sitecounter.site^
+||158.247.208.
+||util-*.simply-hentai.com^
+||23.109.82.
+||get-me-wow.
+||allsportsflix.
+||23.109.87.
