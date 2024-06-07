@@ -1,4 +1,4 @@
-# Update time: 2024-06-05 14:23:42
+# Update time: 2024-06-07 14:24:47
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -36346,7 +36346,6 @@
 127.0.0.1 tr.asp10a7.espmp-aufr.net
 127.0.0.1 mobantong.oss-cn-hangzhou.aliyuncs.com
 127.0.0.1 images.comms.cirium.com
-127.0.0.1 hailstoneprodigious.com
 127.0.0.1 links.email.getgocafe.com
 127.0.0.1 separationreverttap.com
 127.0.0.1 ferict.com
