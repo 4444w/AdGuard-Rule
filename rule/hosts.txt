@@ -1,4 +1,4 @@
-# Update time: 2024-06-11 14:23:52
+# Update time: 2024-06-13 14:23:50
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -49932,7 +49932,6 @@
 127.0.0.1 trk.engineleasingandfinance-europe.com
 127.0.0.1 smetrics.ewweb.com
 127.0.0.1 oxenturftrot.com
-127.0.0.1 mime.baidu.com
 127.0.0.1 niggeusakebvkb.xyz
 127.0.0.1 smetrics.cbc.ca
 127.0.0.1 petasmaupbore.website
@@ -61971,7 +61970,6 @@
 127.0.0.1 tags.refinery89.com
 127.0.0.1 demanier.com
 127.0.0.1 gurimix.com
-127.0.0.1 raadth.com
 127.0.0.1 zgqgig.skillbox.ru
 127.0.0.1 metricstur.www.svenskaspel.se
 127.0.0.1 test-link.touchsurgery.com
@@ -66582,7 +66580,6 @@
 127.0.0.1 lyckery.com
 127.0.0.1 rightypulverizetea.com
 127.0.0.1 777-partners.net
-127.0.0.1 staticsns.cdn.bcebos.com
 127.0.0.1 20200422.logic.cpm.cm.kankan.com
 127.0.0.1 m.107279.com
 127.0.0.1 inkstorulus.top
